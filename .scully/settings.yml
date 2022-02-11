@@ -1,0 +1,11 @@
+identifier: kay0waf9i264h2wd
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: TestDocker
+homeFolder: D:\Source_n_tu\PROJECT-DEMO\AngularUsingDocker\TestDocker
+distFolder: dist/TestDocker
+outDir: D:\Source_n_tu\PROJECT-DEMO\AngularUsingDocker\TestDocker\dist\static
+handle404: ''
+allowErrorCollect: true
